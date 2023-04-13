@@ -1,0 +1,55 @@
+
+#navs{
+    max-width: unset;
+    margin-right: 0;
+    margin-left: 0;
+    z-index: 100;
+}
+body {
+    padding-top: 160px;
+}
+.header img {
+    margin-left: 1px;
+
+    float: right;
+    width: 250px;
+    height: 250px;
+    background: #555;
+}
+
+.header h1 {
+    position: relative;
+    top: 18px;
+    left: 10px;
+    margin-bottom: 12px;
+}
+#trend{
+    color: rgb(39,92,152);
+}
+#head{
+    color: rgb(39,92,152);
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.article{
+    color: rgb(39,92,152);
+}
+.listItem{
+    font-weight: bold;
+}
+#longText{
+    font-size: 15px;
+}
+.cardSmall{
+    max-width: 300px;
+    max-height: 130px;
+    overflow: auto;
+}
+#footer{
+    background-color: #FAFAFA;
+    padding: 10px;
+    font-size: 15px;
+    max-width: unset;
+}
